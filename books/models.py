@@ -10,5 +10,3 @@ class Book(models.Model):
     def __str__(self):
         return self.title
 
-
-# todo:تمرین اضافه کردن فایل و اد کردن آن در گیت هاب git add   git commit   git push
